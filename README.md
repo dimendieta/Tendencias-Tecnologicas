@@ -10,4 +10,16 @@
 -Para verificar si el servidor esta funcionando se coloca docker ps -a
 [![imagen-2022-10-24-105529626.png](https://i.postimg.cc/YS0zy3nf/imagen-2022-10-24-105529626.png)](https://postimg.cc/67sZ8dNy)
 
+                                                     Comando Básico de Docker 
+
+docker run: correr un contenedor
+
+docker ps: Listan los contenedores que están corriendo
+
+(-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo
+
+80:80: Maquina anfitriona
+
+-d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
+
 
