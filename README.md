@@ -1,5 +1,5 @@
 # Tendencias-Tecnologicas
-                                                            Clase #1
+                                    Clase #1 Ejecutar comando docker para ejecutar una instancia servidor web nginx.
 -Crear una cuenta en Docker Hub
 [![imagen-2022-10-24-105055265.png](https://i.postimg.cc/BQh0x72q/imagen-2022-10-24-105055265.png)](https://postimg.cc/zVR6NjdM)
 -Ingresar en Play with Docker
@@ -12,14 +12,16 @@
 
                                                      Comando Básico de Docker 
 
-docker run: correr un contenedor
+docker run: Correr un contenedor
 
-docker ps: Listan los contenedores que están corriendo
+docker ps: Contenedores que están corriendo
 
-(-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo
+(-- name serverweb): Colocar un nombre y sirve para identificar el docker y donde está corriendo
 
 80:80: Maquina anfitriona
 
 -d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
+
+                                     Clase #2 Acceder al contenedor ejecutado y modificar el index.html
 
 
