@@ -27,5 +27,8 @@ docker ps: Contenedores que están corriendo
 [![imagen-2022-10-24-111356115.png](https://i.postimg.cc/zDkQHdg0/imagen-2022-10-24-111356115.png)](https://postimg.cc/bdsgK9Lt)
 -Regresamos a la linea de comandos y escribimos wget https://github.com/dimendieta/Tendencias-Tecnologicas/blob/main/index2.html
 [![imagen-2022-10-24-112139651.png](https://i.postimg.cc/Kj6XpjDx/imagen-2022-10-24-112139651.png)](https://postimg.cc/ZvxDCTQM)
+-Para verificar si se descargo correctamente escribimos el comando ls
+[![imagen-2022-10-24-112300998.png](https://i.postimg.cc/T1V8SG7b/imagen-2022-10-24-112300998.png)](https://postimg.cc/Pv5FvGkf)
+
 
 
