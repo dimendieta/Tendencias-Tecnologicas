@@ -23,5 +23,7 @@ docker ps: Contenedores que están corriendo
 -d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
 
                                      Clase #2 Acceder al contenedor ejecutado y modificar el index.html
+-Creamos un documento en github (documento html)
+[![imagen-2022-10-24-111356115.png](https://i.postimg.cc/zDkQHdg0/imagen-2022-10-24-111356115.png)](https://postimg.cc/bdsgK9Lt)
 
 
