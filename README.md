@@ -25,5 +25,7 @@ docker ps: Contenedores que están corriendo
                                      Clase #2 Acceder al contenedor ejecutado y modificar el index.html
 -Creamos un documento en github (documento html)
 [![imagen-2022-10-24-111356115.png](https://i.postimg.cc/zDkQHdg0/imagen-2022-10-24-111356115.png)](https://postimg.cc/bdsgK9Lt)
+-Regresamos a la linea de comandos y escribimos wget https://github.com/dimendieta/Tendencias-Tecnologicas/blob/main/index2.html
+[![imagen-2022-10-24-112139651.png](https://i.postimg.cc/Kj6XpjDx/imagen-2022-10-24-112139651.png)](https://postimg.cc/ZvxDCTQM)
 
 
