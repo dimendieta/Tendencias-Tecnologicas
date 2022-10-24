@@ -29,6 +29,17 @@ docker ps: Contenedores que están corriendo
 [![imagen-2022-10-24-112351315.png](https://i.postimg.cc/ydTXrbhd/imagen-2022-10-24-112351315.png)](https://postimg.cc/G8Hy4z5w)
 -Para verificar si se descargo correctamente escribimos el comando ls
 [![imagen-2022-10-24-112300998.png](https://i.postimg.cc/T1V8SG7b/imagen-2022-10-24-112300998.png)](https://postimg.cc/Pv5FvGkf)
+-Ingresamos el comando docker cp index2.html nginx:/usr/share/nginx/html/index2.html (se extrae o se añade la informacion del html que se creo en el repositorio) ---> (Presionamos Open Port y ponemos el puerto 80)
+
+                                    EN CASO DE QUE NO SE EJECUTE O PRESENTE ERROR DEBERIAMOS CLONAR EL REPOSITORIO
+-Ingresar el comando : git clone https://github.com/dimendieta/Tendencias-Tecnologicas
+-Ingresar el comando ls para ver si se cargo
+-Ejecutar el comando docker cp index2.html serverweb:/usr/share/nginx/html/index.html
+[![imagen-2022-10-24-115254393.png](https://i.postimg.cc/bJ4Q7KCH/imagen-2022-10-24-115254393.png)](https://postimg.cc/FdgdcnQ7)
+                                   
+                                 Ingresar el puerto 80 en Open Port y al final de la direccion ponemos /index2.html 
+[![imagen-2022-10-24-122501655.png](https://i.postimg.cc/SxtGhTKs/imagen-2022-10-24-122501655.png)](https://postimg.cc/yDcRhTc4)
+                                   
 
 
 
