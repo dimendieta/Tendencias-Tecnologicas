@@ -10,7 +10,7 @@
 -Para verificar si el servidor esta funcionando se coloca docker ps -a
 [![imagen-2022-10-24-105529626.png](https://i.postimg.cc/YS0zy3nf/imagen-2022-10-24-105529626.png)](https://postimg.cc/67sZ8dNy)
 
-                                                     Comando Básico de Docker 
+                                                     Comandos Básicos de Docker 
 
 docker run: Correr un contenedor
 
