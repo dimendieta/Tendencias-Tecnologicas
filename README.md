@@ -1,5 +1,5 @@
 # Tendencias-Tecnologicas
-                                    Clase #1 Ejecutar comando docker para ejecutar una instancia servidor web nginx.
+                              Clase #1 Ejecutar comando docker para ejecutar una instancia servidor web nginx.
 -Crear una cuenta en Docker Hub
 [![imagen-2022-10-24-105055265.png](https://i.postimg.cc/BQh0x72q/imagen-2022-10-24-105055265.png)](https://postimg.cc/zVR6NjdM)
 -Ingresar en Play with Docker
